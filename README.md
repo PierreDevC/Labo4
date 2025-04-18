@@ -47,7 +47,7 @@ $password = 'votre_mot_de_passe';
 
 ## Utilisation
 
-1. Accédez à `index.php` dans votre navigateur
+1. Accédez à `http://localhost/labo4/liste_utilisateurs.php` dans votre navigateur
 2. Commencez par créer un utilisateur
 3. Gérez les transactions pour chaque utilisateur
 4. Consultez les statistiques dans la section totaux
